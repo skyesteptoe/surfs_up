@@ -12,10 +12,10 @@ I used a combination of tools from the Python SQL toolkit to complete this analy
 - There were more temperature measurements taking in June (1700) compared with December (1517). This may be due to the holidays late in December.
 
 #### June Temperature Summary Statistics:
-![image]('June_Temps.png')
+![image](June_Temps.png)
 
 #### December Temperature Summary Statistics:
-![image]('Dec_Temp.png')
+![image](Dec_Temp.png)
 
 ### Summary
 At a high-level, the differences observed in temperature between June and December are negligle. The temperature is not too cold in December (low of 56F) and not too hot in June (high of 85F). Based on temperature alone, it's hard to imagine much better weather year-round for surfing. Oahu has the perfect weather to encourage some sweet indulgence before or after a wave session. 
@@ -23,9 +23,9 @@ At a high-level, the differences observed in temperature between June and Decemb
 Given the great weather, I feel confident about Oahu but decided to double-check that rain wouldn't be a prohibitive factor. I compared June precipitation with December and found that on average, it rains a bit less in June but not significantly (0.13 inches of rain on average in June vs. 0.22 inches of rain in December). What I observe in the range of data, however, is that the majority of days have minimal rain as both June and December range from 0 to 0.02 and 0.03 for 50% of measured days. The max amount of rain measured on a given day is higher in December, however: 6.5 inches in December vs. 4.4 inches in June. Overall, it seems there may be some days with heavier rainfall in December but at least half of the days are rain-free and pleasant. 
 
 #### June Precipitation Summary Statistics:
-![image]('June_Rain.png')
+![image](June_Rain.png)
 
 #### December Precipitation Summary Statistics:
-![image]('Dec_Rain.png')
+![image](Dec_Rain.png)
 
 W.Avy and I feel certain the investors will agree - Oahu is made for ice cream and surfing!
